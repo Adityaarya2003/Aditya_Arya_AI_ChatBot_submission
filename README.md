@@ -1,41 +1,45 @@
-# Chrome-Extension-Base-Template
-This is a basic Chrome Extension base template for starting new projects off of initialized with a MIT license.
+# Chrome-Extension-ChatBot
+
+This is a Chrome Extension that integrates a chatbot into the online platform to assist users while solving problems.
 
 ## Features
-- ..
-- ..
-- ..
+- Adds a chatbot button to the AlgoZenith problem-solving interface.
+- Provides instant assistance and explanations for problem-solving.
+- Easy to install and lightweight for smooth performance.
 
 ## Author
-First Last
-- [Author Website]()
-- [Author Github]()
-- [Project Repository]()
+Aditya Arya 
+- [Author GitHub](https://github.com/Adityaarya2003)  
+- [Project Repository](https://github.com/adityamitra24/chrome-extension-chatbot)  
 
-## Requirements
-### Knowledge
-- HTML
-- CSS
-- Javascript
-- Chrome API
-### Tools
-- Google Chrome Browser
-- IDE or Text Editor of Your Choice
+## Requirements  
 
-## Setup Instructions
-### For Developers
-1. Make a clone of this project, unzipped.
-2. Open Chrome Browser
-3. In a new or blank tab, type in "chrome://extensions/" (without the quotes of course) and click [Enter].
-4. At the top right corner of the page, **enable** "Developer Mode"
-5. Click the button on the page that says "Load Unpacked"
-6. Navigate to your unzipped project folder and select that and hit OK.
-7. You are now ready to start working on the extension! Just make sure you reload after each change you make to see the changes take place.
+### Knowledge  
+- HTML  
+- CSS  
+- JavaScript  
+- Chrome Extension APIs  
 
-### For End Users
-1. ...
-2. ...
-3. ...
+### Tools  
+- Google Chrome Browser  
+- IDE or Text Editor of Your Choice  
 
-## License
-Please refer to LICENSE file.
+## Setup Instructions  
+### For Developers  
+1. Clone this project repository and unzip it.  
+2. Open Google Chrome.  
+3. In a new tab, type `chrome://extensions/` and press **Enter**.  
+4. Enable **Developer Mode** in the top-right corner.  
+5. Click **Load Unpacked**.  
+6. Navigate to the folder where you unzipped the project, select it, and click **OK**.  
+7. Start working on the extension! Remember to reload after making any changes.  
+
+### For End Users  
+1. Download the extension's ZIP file.
+2. Extract the ZIP file to a folder.  
+3. Open Chrome and navigate to `chrome://extensions/`.  
+4. Enable **Developer Mode**, then click **Load Unpacked**.  
+5. Select the extracted folder, and the extension will be installed. 
+
+## License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

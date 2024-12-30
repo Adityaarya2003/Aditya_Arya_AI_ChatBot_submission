@@ -1,24 +1,41 @@
-# Chatbot for Coders
+# Chrome-Extension-Base-Template
+This is a basic Chrome Extension base template for starting new projects off of initialized with a MIT license.
 
-This Chrome extension adds a button to the website that opens a chatbot, allowing users to easily interact with it while solving problems. The chatbot is designed to assist users by providing helpful explanations, answering queries, and offering guidance in real-time as they work through the challenges on the platform.
+## Features
+- ..
+- ..
+- ..
 
-## Features:
-- **Seamless Integration**: Adds a button to the AlgoZenith interface, opening the chatbot for quick assistance.
-- **Interactive Assistance**: Provides users with real-time help for solving problems, including hints, explanations, and tips.
-- **Simple and User-friendly**: Easy to use, with no complex setup required.
+## Author
+First Last
+- [Author Website]()
+- [Author Github]()
+- [Project Repository]()
 
-## Technologies:
-- **Chrome Extensions**: Utilizes Chrome's extension APIs to inject the chatbot into the webpage.
-- **JavaScript**: Handles script injection and interaction with the webpage.
-- **HTML/CSS**: Custom interface design for smooth user interaction.
+## Requirements
+### Knowledge
+- HTML
+- CSS
+- Javascript
+- Chrome API
+### Tools
+- Google Chrome Browser
+- IDE or Text Editor of Your Choice
 
-## Installation:
-1. Download the repository.
-2. Load the extension in Chrome using `chrome://extensions` by enabling Developer Mode and selecting "Load unpacked."
-3. Navigate to AlgoZenith, and the chatbot button should appear!
+## Setup Instructions
+### For Developers
+1. Make a clone of this project, unzipped.
+2. Open Chrome Browser
+3. In a new or blank tab, type in "chrome://extensions/" (without the quotes of course) and click [Enter].
+4. At the top right corner of the page, **enable** "Developer Mode"
+5. Click the button on the page that says "Load Unpacked"
+6. Navigate to your unzipped project folder and select that and hit OK.
+7. You are now ready to start working on the extension! Just make sure you reload after each change you make to see the changes take place.
 
-## Contributing:
-Feel free to contribute by submitting issues or pull requests. Any suggestions for improvements are welcome!
+### For End Users
+1. ...
+2. ...
+3. ...
 
-## Screen Recording:
-https://drive.google.com/file/d/1nVwmLSQ1jqlPtWkqciWj7YJATzgPl_m-/view?usp=share_link
+## License
+Please refer to LICENSE file.

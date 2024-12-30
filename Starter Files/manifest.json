@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Help Bot",
+  "version": "0.1.0",
+  "author": "Aditya Arya",
+  "description": "This is a chrome extension that allows a user to open a chat bot while solving a problem on Algozenith.",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://maang.in/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/bookmark.png",
+        "assets/delete.png",
+        "assets/play.png",
+        "assets/close.png"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "assets/ext-icon.png",
+      "24": "assets/ext-icon.png",
+      "32": "assets/ext-icon.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Quick Help Bot"
+  }
+}

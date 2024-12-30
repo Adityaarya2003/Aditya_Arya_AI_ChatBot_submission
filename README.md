@@ -19,3 +19,6 @@ This Chrome extension adds a button to the website that opens a chatbot, allowin
 
 ## Contributing:
 Feel free to contribute by submitting issues or pull requests. Any suggestions for improvements are welcome!
+
+## Screen Recording:
+https://drive.google.com/file/d/1nVwmLSQ1jqlPtWkqciWj7YJATzgPl_m-/view?usp=share_link
